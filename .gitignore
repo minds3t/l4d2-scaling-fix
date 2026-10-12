@@ -1,0 +1,8 @@
+# everything build.ps1 writes: Valve's files extracted from the game, and the files generated from them
+/build/
+
+# the release package, written by release.ps1
+/dist/
+
+# restored with `npm install`
+node_modules/

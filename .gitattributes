@@ -1,0 +1,3 @@
+# Files a player opens or starts must keep Windows line ends, also in a checkout that normalizes them.
+*.cmd text eol=crlf
+*.txt text eol=crlf
